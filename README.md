@@ -1,10 +1,9 @@
 <h1>Sobre mim</h1>
 <p>👋 Olá, meu nome e Petrucio Willian, cursando analista de dados na EBAC</p>
 <p>🗺 moro em Patos na Paraiba tenho 39 anos</p> 
-🎓Formado em Analista e Desenvolvedo de Sistema fazendo pós em Ciência de Dados e Big Data
+<p>🎓Formado em Analista e Desenvolvedo de Sistema fazendo pós em Ciência de Dados e Big Data</p>
 
-
-
+![31](https://github.com/petwillian/petwillian/assets/44210315/52321199-dee5-4e0c-88e9-d1f3e0c20c44)  linkedin.com/in/petruciowillian
 
 
 
