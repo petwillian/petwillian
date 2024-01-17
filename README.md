@@ -1,4 +1,4 @@
-### Hi there 👋 Meu nome e Petrucio Willian Estudando na EBAC o curso de analista de dados
+### Hi there 👋 Meu nome e Petrucio Willian estudando na EBAC o curso de analista de dados
 
 <!--
 **petwillian/petwillian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
