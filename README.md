@@ -1,6 +1,7 @@
-### 👋 Olá, meu nome e Petrucio Willian, cursando analista de dados na EBAC  ![36](https://github.com/petwillian/petwillian/assets/44210315/ac00ca81-ec54-4b9d-9967-0cafe086618f)
-
-
+<h1>Sobre mim</h1>
+<p>👋 Olá, meu nome e Petrucio Willian, cursando analista de dados na EBAC</p>
+<p>🗺 moro em Patos na Paraiba tenho 39 anos</p> 
+🎓Formado em Analista e Desenvolvedo de Sistema fazendo pós em Ciência de Dados e Big Data
 
 
 
