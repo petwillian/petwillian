@@ -4,7 +4,7 @@
 <p>🎓Formado em Analista e Desenvolvedo de Sistema fazendo pós em Ciência de Dados e Big Data</p>
 
                                                                                                       
- ![37](https://github.com/petwillian/petwillian/assets/44210315/c7fbae16-8e94-40a3-8498-52dcca75c62e)  linkedin.com/in/petruciowillian
+ ![37](https://github.com/petwillian/petwillian/assets/44210315/c7fbae16-8e94-40a3-8498-52dcca75c62e)  https://linkedin.com/in/petruciowillian
 
                                                                                                      
 
