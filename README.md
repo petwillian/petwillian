@@ -13,6 +13,10 @@
  <img align="left" width="100" height="50" src="https://github.com/petwillian/Exercicio-python-colab-remoto/assets/44210315/e951be5e-c908-4c0d-8b30-e55043d86977">
  <img align="left" width="100" height="50" src="https://github.com/petwillian/petwillian/assets/44210315/89833531-c013-4369-be9f-3368bbb0d681">
  <img align="left" width="100" height="50" src="https://github.com/petwillian/petwillian/assets/44210315/e44d92ff-2b60-4129-9167-01cd20032c68">
+ <img align="left" width="100" height="50" src="https://github.com/petwillian/petwillian/assets/44210315/5b16d2b3-2d6a-4a22-a131-cec7fe6b640d">
+
+
+
 
 
                                                                                                      
