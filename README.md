@@ -10,13 +10,13 @@
  
  <h1>Ferramentas:</h1>
 
- <img align="left" width="200" height="60" src="https://github.com/petwillian/Exercicio-python-colab-remoto/assets/44210315/e951be5e-c908-4c0d-8b30-e55043d86977">
- <img align="left" width="200" height="60" src="https://github.com/petwillian/petwillian/assets/44210315/89833531-c013-4369-be9f-3368bbb0d681">
- <img align="left" width="200" height="60" src="https://github.com/petwillian/petwillian/assets/44210315/e44d92ff-2b60-4129-9167-01cd20032c68">
- <img align="left" width="200" height="60" src="https://github.com/petwillian/petwillian/assets/44210315/5b16d2b3-2d6a-4a22-a131-cec7fe6b640d">
- <img align="left" width="200" height="60" src="https://github.com/petwillian/petwillian/assets/44210315/4764de34-f60a-4536-a0ef-16ba20e3b1cf">
- <img align="left" width="200" height="80" src="https://github.com/petwillian/petwillian/assets/44210315/adbd44d4-1e47-446b-8f1c-30726ba00e69">
- <img align="left" width="200" height="80" src="https://github.com/petwillian/petwillian/assets/44210315/644c4a1c-6e0a-4f26-809b-9a16fb724590">
+ <img align="left" width="150" height="60" src="https://github.com/petwillian/Exercicio-python-colab-remoto/assets/44210315/e951be5e-c908-4c0d-8b30-e55043d86977">
+ <img align="left" width="150" height="60" src="https://github.com/petwillian/petwillian/assets/44210315/89833531-c013-4369-be9f-3368bbb0d681">
+ <img align="left" width="150" height="60" src="https://github.com/petwillian/petwillian/assets/44210315/e44d92ff-2b60-4129-9167-01cd20032c68">
+ <img align="left" width="150" height="60" src="https://github.com/petwillian/petwillian/assets/44210315/5b16d2b3-2d6a-4a22-a131-cec7fe6b640d">
+ <img align="left" width="150" height="60" src="https://github.com/petwillian/petwillian/assets/44210315/4764de34-f60a-4536-a0ef-16ba20e3b1cf">
+ <img align="left" width="150" height="80" src="https://github.com/petwillian/petwillian/assets/44210315/adbd44d4-1e47-446b-8f1c-30726ba00e69">
+ <img align="left" width="150" height="80" src="https://github.com/petwillian/petwillian/assets/44210315/644c4a1c-6e0a-4f26-809b-9a16fb724590">
 
 
 
