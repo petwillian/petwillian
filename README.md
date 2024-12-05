@@ -2,7 +2,7 @@
 <p>👋 Olá, meu nome e Petrucio Willian, cursando analista de dados na EBAC</p>
 <p>🗺 moro em Patos na Paraiba tenho 39 anos</p> 
 <p>🎓 Formado em Analista e Desenvolvedo de Sistema fazendo Pós em Ciência de Dados e Big Data</p>
-<p>🔭 Atualmente estou Trabalhando como Operado de Serviço de Campo na empresa Brisanet</p>
+<p>🔭 Atualmente estou Trabalhando como Operador de Serviço de Campo na empresa Brisanet</p>
 
                                                                                                       
  ![37](https://github.com/petwillian/petwillian/assets/44210315/c7fbae16-8e94-40a3-8498-52dcca75c62e)  https://linkedin.com/in/petruciowillian
