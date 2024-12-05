@@ -8,18 +8,15 @@
  ![37](https://github.com/petwillian/petwillian/assets/44210315/c7fbae16-8e94-40a3-8498-52dcca75c62e)  https://linkedin.com/in/petruciowillian
 
  
- <h1>Ferramentas Analise de Dados:</h1>
-
- <img align="left" width="70" height="60" src="https://github.com/petwillian/Exercicio-python-colab-remoto/assets/44210315/e951be5e-c908-4c0d-8b30-e55043d86977">
- <img align="left" width="70" height="60" src="https://github.com/petwillian/petwillian/assets/44210315/89833531-c013-4369-be9f-3368bbb0d681">
- <img align="left" width="100" height="60" src="https://github.com/petwillian/petwillian/assets/44210315/e44d92ff-2b60-4129-9167-01cd20032c68">
- <img align="left" width="70" height="60" src="https://github.com/petwillian/petwillian/assets/44210315/5b16d2b3-2d6a-4a22-a131-cec7fe6b640d">
- <img align="left" width="70" height="60" src="https://github.com/petwillian/petwillian/assets/44210315/4764de34-f60a-4536-a0ef-16ba20e3b1cf">
- <img align="left" width="70" height="80" src="https://github.com/petwillian/petwillian/assets/44210315/adbd44d4-1e47-446b-8f1c-30726ba00e69">
- <img align="left" width="100" height="80" src="https://github.com/petwillian/petwillian/assets/44210315/644c4a1c-6e0a-4f26-809b-9a16fb724590">
-
-
-
+ >**Ferramentas Analise de Dados**:               
+                  ![Python](https://img.shields.io/badge/Python-%23000000?style=flat&logo=python&logoColor=%233776AB)
+                  ![Colab](https://img.shields.io/badge/Colab-orange?style=flat&logo=googlecolab&logoColor=%23F9AB00)
+                  ![Geopandas](https://img.shields.io/badge/Geopandas-%20%23139C5A?style=flat&logo=geopandas&logoColor=%23F5FFFA)
+                  ![lookerstudio](https://img.shields.io/badge/looker-%20%234285F4?style=flat&logo=looker&logoColor=%23F5FFFA)
+                  ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-%23569A31?style=flat&logo=amazons3&logoColor=%23FFFAFA)
+                  ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=sqlite)
+                  ![Pandas](https://img.shields.io/badge/Pandas-%23150458?style=flat&logo=pandas)
+                  ![awslambda](https://img.shields.io/badge/Aws%20Lambda-%23FF9900?style=flat&logo=awslambda&logoColor=%23FFFAFA)
                                                                                                     
 
 
