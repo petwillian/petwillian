@@ -17,7 +17,7 @@
                   ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=sqlite)
                   ![Pandas](https://img.shields.io/badge/Pandas-%23150458?style=flat&logo=pandas)
                   ![awslambda](https://img.shields.io/badge/Aws%20Lambda-%23FF9900?style=flat&logo=awslambda&logoColor=%23FFFAFA)
-                                                                                                    
+                  ![amazonapigateway](https://img.shields.io/badge/Amazon%20API%20Gateway%20-%20%23FF4F8B?style=flat&logo=amazonapigateway&logoColor=%23FFFAFA)                                                         ![Amazon AWS](https://img.shields.io/badge/AWS-black?style=flat-square&logo=amazon-aws)                      
 
 
 <!--
