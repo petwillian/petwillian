@@ -1,7 +1,7 @@
 <h1>Sobre mim</h1>
 <p>👋 Olá, meu nome e Petrucio Willian, cursando analista de dados na EBAC</p>
 <p>🗺 moro em Patos na Paraiba tenho 40 anos</p> 
-<p>🎓 Formado em Analista e Desenvolvedo de Sistema fazendo Pós em Ciência de Dados e Big Data</p>
+<p>🎓 Formado em Análise e Desenvolvimento de Sistemas fazendo Pós em Ciência de Dados e Big Data</p>
 <p>🔭 Atualmente estou Trabalhando como Operador de Serviço de Campo na empresa Brisanet</p>
 
                                                                                                       
